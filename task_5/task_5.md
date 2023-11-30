@@ -30,9 +30,14 @@ OmegaFold
 
 ## Output-файлы программы выравнивания
 
-[Веб-страница с результатами выравнивания](alignment_output_files/iPBA_web_server.html)
+Скриншоты результатов выравнивания
 
-[6e0f8_alpha.pdb выравненный по 6e0f8_omega.pdb](alignment_output_files.6e0f8_alpha_aligned_to_omega.pdb)
+![](https://i.imgur.com/QCNNclN.png)
+
+![](https://i.imgur.com/EqpxcvU.png)
+
+
+[6e0f8_alpha.pdb выравненный по 6e0f8_omega.pdb](alignment_output_files/6e0f8_alpha_aligned_to_omega.pdb)
 
 [Файл выравнивания](alignment_output_files/all_aligned.pdb)
 
