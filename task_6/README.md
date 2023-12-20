@@ -17,16 +17,16 @@
 
 #### Таргет
 
-![](images\target.png)
+![](images/target.png)
 
 #### Лиганд
 
-![](images\ligand.png)
+![](images/ligand.png)
 
 #### Бокс
 
-![](images\box.png)
+![](images/box.png)
 
 #### Докинг
 
-![](images\doking.png)
+![](images/doking.png)
